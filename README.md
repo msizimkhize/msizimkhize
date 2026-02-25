@@ -13,10 +13,11 @@
 [Staff Data Management System](https://github.com/msizimkhize/Staff-Data) (C++)\
 [Andoid Black SOD App](https://github.com/msizimkhize/Android-Black-SOD-App) (Java)
 
-# Tech Stack
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=msizimkhize&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=msizimkhize&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=msizimkhize&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-# Softwares
 
 
 
