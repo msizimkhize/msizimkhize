@@ -1,4 +1,4 @@
-# Repository Menu
+<!-- # Repository Menu -->
 
 ## Data Projects
 [Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
@@ -13,7 +13,7 @@
 [Staff Data Management System](https://github.com/msizimkhize/Staff-Data) (C++)\
 [Andoid Black SOD App](https://github.com/msizimkhize/Android-Black-SOD-App) (Java)
 
-# Statistics
+## Statistics
 <!-- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=msizimkhize&theme=dark&hide_border=false) -->
 ![](https://github-readme-streak-stats-ten-peach.vercel.app/?user=msizimkhize&theme=dark&hide_border=false)
 
