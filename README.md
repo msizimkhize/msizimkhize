@@ -1,16 +1,22 @@
-## Hi there 👋
+# Repository Menu
 
-<!--
-**msizimkhize/msizimkhize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Projects
+Fruit Prices 2022 (Python, Jupyter)\
+South African Crime Statistics (Python)\
+Bread and Vital Food Cost: ZA and Global (R)\
+Vegetable Prices 2022 (MySQL, PowerBI)
 
-Here are some ideas to get you started:
+## Software Projects
+Tic-tac-toe Neural Network (JavaScript)\
+Arithmetical-Triangle (JavaScript)\
+Stellar Motion (MATLAB)\
+Staff Data Management System (C++)\
+Andoid Black SOD (Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack
+
+
+# Softwares
+
+
+
