@@ -3,6 +3,7 @@
 ## Data Projects
 [Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
 → [Dashboard](https://public.tableau.com/views/Book1_17409115922560/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
+→ [Data Visualisation and Prediction of Results](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter/blob/main/fruit_price_and_projection.ipynb) (Jupyter Notebook)\
 [South African Crime Statistics](https://github.com/msizimkhize/South-African-Crime-Statistics-Comparative-Analysis-Project) (Python)\
 → [Dashboard](https://public.tableau.com/views/Book1_17404232509640/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
 [Bread and Vital Food Cost: ZA and Global](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-) (R)\
