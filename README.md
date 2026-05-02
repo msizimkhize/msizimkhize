@@ -11,8 +11,8 @@
 → [Dashboard](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI) (Power BI)
 
 ## Software Projects
-[Tic-tac-toe Neural Network](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network) (JavaScript)\
-[Arithmetical-Triangle](https://github.com/msizimkhize/Arithmetical-Triangle) (JavaScript)\
+[Tic-tac-toe Neural Network](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network) (JS)\
+[Arithmetical-Triangle](https://github.com/msizimkhize/Arithmetical-Triangle) (JS)\
 [Stellar Motion](https://github.com/msizimkhize/Stellar-Motion-MATLAB-Project) (MATLAB)\
 [Staff Data Management System](https://github.com/msizimkhize/Staff-Data) (C++)\
 [Andoid Black SOD App](https://github.com/msizimkhize/Android-Black-SOD-App) (Java)\
