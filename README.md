@@ -1,10 +1,10 @@
 <!-- # Repository Menu -->
 
 ## Data Projects
-▪[Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
-▪[South African Crime Statistics](https://github.com/msizimkhize/South-African-Crime-Statistics-Comparative-Analysis-Project) (Python)\
-▪[Bread and Vital Food Cost: ZA and Global](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-) (R)\
-▪[Vegetable Prices 2022]() (MySQL, PowerBI)
+▪ [Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
+▪ [South African Crime Statistics](https://github.com/msizimkhize/South-African-Crime-Statistics-Comparative-Analysis-Project) (Python)\
+▪ [Bread and Vital Food Cost: ZA and Global](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-) (R)\
+▪ [Vegetable Prices 2022]() (MySQL, PowerBI)
 
 ## Software Projects
 ▪[Tic-tac-toe Neural Network](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network) (JavaScript)\
