@@ -7,7 +7,7 @@
 [South African Crime Statistics](https://github.com/msizimkhize/South-African-Crime-Statistics-Comparative-Analysis-Project) (Python)\
 → [Dashboard](https://public.tableau.com/views/Book1_17404232509640/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
 [Bread and Vital Food Cost: ZA and Global](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-) (R)\
-[Vegetable Prices 2022]() (MySQL, PowerBI)\
+[Vegetable Prices 2022](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI) (MySQL, PowerBI)\
 → [Dashboard](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI) (Power BI)
 
 ## Software Projects
