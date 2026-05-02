@@ -12,6 +12,7 @@
 [Stellar Motion](https://github.com/msizimkhize/Stellar-Motion-MATLAB-Project) (MATLAB)\
 [Staff Data Management System](https://github.com/msizimkhize/Staff-Data) (C++)\
 [Andoid Black SOD App](https://github.com/msizimkhize/Android-Black-SOD-App) (Java)
+[NeetCode Blind 75](https://github.com/msizimkhize/NeetCode-Blind-75) (C++)
 
 ## Statistics
 <!-- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=msizimkhize&theme=dark&hide_border=false) -->
