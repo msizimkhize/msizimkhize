@@ -1,7 +1,12 @@
 <!-- # Repository Menu -->
 
 ## Software Projects
-[Tic-tac-toe Neural Network](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network) (JavaScript)\
+#### **Tic-Tac-Toe Neural Network** | A Self-Learning AI Implementation Using Supervised Learning
+**Core Function:** Developed a web-based game where a neural network observes gameplay patterns...\
+**Stack:** `JavaScript` • `Brain.js` • `HTML5/CSS3` • `JSON`\
+**Key feature:** Engineered a training pipeline that processes game-state arrays into weighted inputs, allowing the model to predict the highest-probability winning moves in real-time.\
+📁 [View Repository](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network)
+
 [Arithmetical-Triangle](https://github.com/msizimkhize/Arithmetical-Triangle) (JavaScript)\
 [Stellar Motion](https://github.com/msizimkhize/Stellar-Motion-MATLAB-Project) (MATLAB)\
 [Staff Data Management System](https://github.com/msizimkhize/Staff-Data) (C++)\
