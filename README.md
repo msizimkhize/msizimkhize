@@ -20,21 +20,10 @@
 * **Export Engine:** Integrated a multi-format export system allowing administrators to generate portable HTML reports (including interactive charts) or standardized text documentation for external auditing.
 * **Technical Insight:** Leveraged the Qt Signal/Slot mechanism to maintain synchronization between the C++ data models and the web-based dashboard view.
 
- 📁 [**View Repository**](https://github.com/msizimkhize/Staff-Data-Management)
+ 📁 [View Repository](https://github.com/msizimkhize/Staff-Data-Management)
 
 ---
 
->**Arithmetical Triangle** | A Self-Learning AI Implementation Using Supervised Learning\
->**Core Function:** \
->**Stack:** `JavaScript` • `Brain.js` • `HTML5/CSS3` • `JSON`\
->**Key Feature:** \
->**Technical Insight:** \
->📁 [View Repository](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network)
-
-[](https://github.com/msizimkhize/Arithmetical-Triangle) (JavaScript)\
-[Stellar Motion](https://github.com/msizimkhize/Stellar-Motion-MATLAB-Project) (MATLAB)\
-[Staff Data Management System](https://github.com/msizimkhize/Staff-Data) (C++)\
-[Andoid Black SOD App](https://github.com/msizimkhize/Android-Black-SOD-App) (Java)\
 [NeetCode Blind 75](https://github.com/msizimkhize/NeetCode-Blind-75) (C++)
 
 ## Data Projects
