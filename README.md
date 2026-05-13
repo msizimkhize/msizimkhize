@@ -10,6 +10,8 @@
 > * **Technical Insight:** Managed training data priorities to balance exploration and exploitation, ensuring the AI adapts to various human playstyles.\
 >📁 [View Repository](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network)
 
+---
+
 > ### Staff Data Management System
 > **A high-performance C++ desktop application for organizational data visualization.**
 >
