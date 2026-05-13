@@ -2,7 +2,7 @@
 
 # Software Projects
 ### Tic-Tac-Toe Neural Network
-A self-learning AI implementation using supervised learning.
+**A self-learning AI implementation using supervised learning.**
 
 **Core Function:** Developed a web-based game where a neural network observes gameplay patterns to learn optimal strategies for defeating a human opponent.\
 **Stack:** `JavaScript` • `Brain.js` • `HTML5/CSS3` • `JSON`\
