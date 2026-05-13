@@ -26,7 +26,7 @@
 
 [NeetCode Blind 75](https://github.com/msizimkhize/NeetCode-Blind-75) (C++)
 
-## Data Projects
+# Data Projects
 [Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
 → [Dashboard](https://public.tableau.com/views/Book1_17409115922560/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
 → [Data Visualisation and Prediction of Results](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter/blob/main/fruit_price_and_projection.ipynb) (Python Notebook)\
