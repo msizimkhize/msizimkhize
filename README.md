@@ -28,13 +28,13 @@
 
 # Data Projects
 📁 [Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
-* 📁 [Dashboard](https://public.tableau.com/views/Book1_17409115922560/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
-* 📁 [Data Visualisation and Prediction of Results](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter/blob/main/fruit_price_and_projection.ipynb) (Python Notebook)\
+→ 📁 [Dashboard](https://public.tableau.com/views/Book1_17409115922560/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
+→ 📁 [Data Visualisation and Prediction of Results](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter/blob/main/fruit_price_and_projection.ipynb) (Python Notebook)\
 📁 [South African Crime Statistics](https://github.com/msizimkhize/South-African-Crime-Statistics-Comparative-Analysis-Project) (Python)\
-* 📁 [Dashboard](https://public.tableau.com/views/Book1_17404232509640/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
+→ 📁 [Dashboard](https://public.tableau.com/views/Book1_17404232509640/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau)\
 [📁 Bread and Vital Food Cost: ZA and Global](https://github.com/msizimkhize/Bread-and-Vital-Food-Cost-Analysis-South-Africa-and-International-) (R)\
 📁 [Vegetable Prices 2022](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI) (MySQL, PowerBI)\
-* 📁 [Dashboard](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI/raw/refs/heads/main/Vegetable%20Prices%202022%20Report.pbix) (Power BI)
+→ 📁 [Dashboard](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI/raw/refs/heads/main/Vegetable%20Prices%202022%20Report.pbix) (Power BI)
 
 ## Statistics
 <!-- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=msizimkhize&theme=dark&hide_border=false) -->
