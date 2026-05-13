@@ -1,14 +1,12 @@
 <!-- # Repository Menu -->
 
 ## Software Projects
->### Tic-Tac-Toe Neural Network
->**A Self-Learning AI Implementation Using Supervised Learning**\
->
-> * **Core Function:** Developed a web-based game where a neural network observes gameplay patterns to learn optimal strategies for defeating a human opponent.\
-> * **Stack:** `JavaScript` • `Brain.js` • `HTML5/CSS3` • `JSON`\
-> * **Key Feature:** Engineered a training pipeline that processes game-state arrays into weighted inputs, allowing the model to predict the highest-probability >winning moves in real-time.\
-> * **Technical Insight:** Managed training data priorities to balance exploration and exploitation, ensuring the AI adapts to various human playstyles.\
->📁 [View Repository](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network)
+**Tic-Tac-Toe Neural Network** | A Self-Learning AI Implementation Using Supervised Learning
+* **Core Function:** Developed a web-based game where a neural network observes gameplay patterns to learn optimal strategies for defeating a human opponent.
+* **Stack:** `JavaScript` • `Brain.js` • `HTML5/CSS3` • `JSON`
+* **Key Feature:** Engineered a training pipeline that processes game-state arrays into weighted inputs, allowing the model to predict the highest-probability winning moves in real-time.
+ * **Technical Insight:** Managed training data priorities to balance exploration and exploitation, ensuring the AI adapts to various human playstyles.
+📁 [View Repository](https://github.com/msizimkhize/Tic-Tac-Toe-Neural-Network)
 
 ---
 
