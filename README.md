@@ -21,7 +21,7 @@
 * **Export Engine:** Integrated a multi-format export system allowing administrators to generate portable HTML reports (including interactive charts) or standardised text documentation for external auditing.
 * **Technical Insight:** Leveraged the Qt Signal/Slot mechanism to maintain synchronisation between the C++ data models and the web-based dashboard view.
 
- 📁 [View Repository](https://github.com/msizimkhize/Staff-Data-Management)
+ 📁 [View Repository](https://github.com/msizimkhize/Staff-Data-Management-System)
 
 ---
 
