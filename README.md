@@ -2,7 +2,7 @@
 
 # Software Projects
 
-### TextIC
+### TextIC Android Application
 **A high-visibility text utility application designed for enhanced readability and accessibility.**
 
 * **Core Function:** Developed a specialized Android utility that allows users to input or paste text and dynamically scale it to extreme magnification levels, solving visibility challenges for small-print digital content.
