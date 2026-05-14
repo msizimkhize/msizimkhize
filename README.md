@@ -34,7 +34,7 @@
 * **Technical Specs:** Optimised for a wide range of devices with a backward-compatibility reach starting from **Android 7.0 (Nougat)** up to the latest **Android 14**, ensuring a stable 70% module performance across environments.
 * **Technical Insight:** Utilised shared preferences for persistent storage of user settings, ensuring that theme and formatting choices are preserved across application lifecycles.
 
-📁 [View Repository](https://github.com/msizimkhize/TextIC)
+📁 [View Repository](https://github.com/msizimkhize/TextIC-Android-Application)
 
 ---
 
