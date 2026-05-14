@@ -2,19 +2,6 @@
 
 # Software Projects
 
-### TextIC Android Application
-**A high-visibility text utility application designed for enhanced readability and accessibility.**
-
-* **Core Function:** Developed a specialised Android utility that allows users to input or paste text and dynamically scale it to extreme magnification levels, solving visibility challenges for small-print digital content.
-* **Stack:** `Java` • `Android SDK (API 34)` • `XML Layouts` • `Android Studio`
-* **Key Feature:** Implemented a robust UI customisation engine enabling real-time toggling of **Dark/Light themes**, text alignment (centering), and font styling (Bold/Italics) to cater to diverse visual needs.
-* **Technical Specs:** Optimised for a wide range of devices with a backward-compatibility reach starting from **Android 7.0 (Nougat)** up to the latest **Android 14**, ensuring a stable 70% module performance across environments.
-* **Technical Insight:** Utilised shared preferences for persistent storage of user settings, ensuring that theme and formatting choices are preserved across application lifecycles.
-
-📁 [View Repository](https://github.com/msizimkhize/TextIC)
-
----
-
 ### Tic-Tac-Toe Neural Network
 **A self-learning AI implementation using supervised learning.**
 * **Core Function:** Developed a web-based game where a neural network observes gameplay patterns to learn optimal strategies for defeating a human opponent.
@@ -36,6 +23,20 @@
 
  📁 [View Repository](https://github.com/msizimkhize/Staff-Data-Management)
 
+---
+
+### TextIC Android Application
+**A high-visibility text utility application designed for enhanced readability and accessibility.**
+
+* **Core Function:** Developed a specialised Android utility that allows users to input or paste text and dynamically scale it to extreme magnification levels, solving visibility challenges for small-print digital content.
+* **Stack:** `Java` • `Android SDK (API 34)` • `XML Layouts` • `Android Studio`
+* **Key Feature:** Implemented a robust UI customisation engine enabling real-time toggling of **Dark/Light themes**, text alignment (centering), and font styling (Bold/Italics) to cater to diverse visual needs.
+* **Technical Specs:** Optimised for a wide range of devices with a backward-compatibility reach starting from **Android 7.0 (Nougat)** up to the latest **Android 14**, ensuring a stable 70% module performance across environments.
+* **Technical Insight:** Utilised shared preferences for persistent storage of user settings, ensuring that theme and formatting choices are preserved across application lifecycles.
+
+📁 [View Repository](https://github.com/msizimkhize/TextIC)
+
+---
 
 # Data Projects
 📁 [Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
