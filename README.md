@@ -7,9 +7,9 @@
 
 * **Core Function:** Developed a specialized Android utility that allows users to input or paste text and dynamically scale it to extreme magnification levels, solving visibility challenges for small-print digital content.
 * **Stack:** `Java` • `Android SDK (API 34)` • `XML Layouts` • `Android Studio`
-* **Key Feature:** Implemented a robust UI customization engine enabling real-time toggling of **Dark/Light themes**, text alignment (centering), and font styling (Bold/Italics) to cater to diverse visual needs.
-* **Technical Specs:** Optimized for a wide range of devices with a backward-compatibility reach starting from **Android 7.0 (Nougat)** up to the latest **Android 14**, ensuring a stable 70% module performance across environments.
-* **Technical Insight:** Utilized shared preferences for persistent storage of user settings, ensuring that theme and formatting choices are preserved across application lifecycles.
+* **Key Feature:** Implemented a robust UI customisation engine enabling real-time toggling of **Dark/Light themes**, text alignment (centering), and font styling (Bold/Italics) to cater to diverse visual needs.
+* **Technical Specs:** Optimised for a wide range of devices with a backward-compatibility reach starting from **Android 7.0 (Nougat)** up to the latest **Android 14**, ensuring a stable 70% module performance across environments.
+* **Technical Insight:** Utilised shared preferences for persistent storage of user settings, ensuring that theme and formatting choices are preserved across application lifecycles.
 
 📁 [View Repository](https://github.com/msizimkhize/TextIC)
 
@@ -30,9 +30,9 @@
 **A high-performance C++ desktop application for organizational data visualization.**
 * **Core Function:** Engineered a Windows-based administrative tool that processes employee data (Permanent, Part-time, Contract) and transforms raw inputs into interactive, animated visual dashboards.
 * **Stack:** `C++` • `Qt Framework 6.5` • `QMake` • `JavaScript` • `HTML5/CSS3`
-* **Key Feature:** Developed a hybrid UI architecture where a C++ backend drives a dynamic **JS-animated Doughnut Chart**, providing real-time data visualization of workforce distribution.
-* **Export Engine:** Integrated a multi-format export system allowing administrators to generate portable HTML reports (including interactive charts) or standardized text documentation for external auditing.
-* **Technical Insight:** Leveraged the Qt Signal/Slot mechanism to maintain synchronization between the C++ data models and the web-based dashboard view.
+* **Key Feature:** Developed a hybrid UI architecture where a C++ backend drives a dynamic **JS-animated Doughnut Chart**, providing real-time data visualisation of workforce distribution.
+* **Export Engine:** Integrated a multi-format export system allowing administrators to generate portable HTML reports (including interactive charts) or standardised text documentation for external auditing.
+* **Technical Insight:** Leveraged the Qt Signal/Slot mechanism to maintain synchronisation between the C++ data models and the web-based dashboard view.
 
  📁 [View Repository](https://github.com/msizimkhize/Staff-Data-Management)
 
