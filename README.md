@@ -22,9 +22,6 @@
 
  📁 [View Repository](https://github.com/msizimkhize/Staff-Data-Management)
 
----
-
-[NeetCode Blind 75](https://github.com/msizimkhize/NeetCode-Blind-75) (C++)
 
 # Data Projects
 📁 [Fruit Prices 2022](https://github.com/msizimkhize/Fruit-Prices-2022-Python-Jupyter) (Python, Jupyter)\
