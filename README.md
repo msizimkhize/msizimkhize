@@ -33,7 +33,7 @@
 📁 [Vegetable Prices 2022](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI) (MySQL, PowerBI)\
 → 📁 [Dashboard](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI/raw/refs/heads/main/Vegetable%20Prices%202022%20Report.pbix) (Power BI)
 
-## Statistics
+# Statistics
 <!-- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=msizimkhize&theme=dark&hide_border=false) -->
 ![](https://github-readme-streak-stats-ten-peach.vercel.app/?user=msizimkhize&theme=dark&hide_border=false)
 
