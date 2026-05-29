@@ -13,6 +13,20 @@
 
 ---
 
+### Journal Archive and Records Manager
+**A robust C++ desktop solution built for precise academic archival and data bookkeeping.**
+
+* **Core Function:** Developed a feature-rich graphical user interface (GUI) designed to catalogue, track, and manage academic journal details (including publication names, volumes, page numbers, and author metadata) for structural record management.
+* **Stack:** `C++` • `Qt Framework 6.5` • `CMake` • `Qt Widget Architecture`
+* **Key Feature:** Implemented an automated age-indicator system that performs real-time temporal calculations, conditionally highlighting table-view entries in **red or green** to immediately signify record age and archive status.
+* **Data Integrity:** Engineered an extensive multi-layered validation pipeline to verify input sanitisation, ensuring all inputted metadata adheres to strict structural formats before being committed to storage.
+* **Manipulation Engine:** Features advanced data-handling mechanics that allow users to search, filter, and dynamically sort repository records by field (Journal Name, Author, Pages), alongside a secure deletion module for absolute record control.
+* **Technical Insight:** Migrated the project build orchestration to **CMake** to ensure clean dependency tracking and modern cross-platform compilation logic, while utilising specialised data models to decouple UI presentation from underlying records.
+
+📁 [View Repository](https://github.com/msizimkhize/Journal-Archive-Manager)
+
+---
+
 ### Staff Data Management System
 **A high-performance C++ desktop application for organizational data visualization.**
 * **Core Function:** Engineered a Windows-based administrative tool that processes employee data (Permanent, Part-time, Contract) and transforms raw inputs into interactive, animated visual dashboards.
