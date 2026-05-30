@@ -56,5 +56,9 @@
 <!-- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=msizimkhize&theme=dark&hide_border=false) -->
 ![](https://github-readme-streak-stats-ten-peach.vercel.app/?user=msizimkhize&theme=dark&hide_border=false)
 
+#### Reach Out on LinkedIn
+
+[![](https://raw.githubusercontent.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI/adc81f1d2ee7e3d74868bc8fdf859f13eba1fe5b/IMG/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e.svg)](https://www.linkedin.com/in/msizimkhize/)
+
 
 
