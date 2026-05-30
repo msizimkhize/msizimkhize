@@ -13,7 +13,7 @@
 
 ---
 
-### Journal Archive and Records Manager
+### Journal Archives and Records Manager
 **A robust C++ desktop solution built for precise academic archival and data bookkeeping.**
 
 * **Core Function:** Developed a feature-rich graphical user interface (GUI) designed to catalogue, track, and manage academic journal details (including publication names, volumes, page numbers, and author metadata) for structural record management.
