@@ -23,7 +23,7 @@
 * **Manipulation Engine:** Features advanced data-handling mechanics that allow users to search, filter, and dynamically sort repository records by field (Journal Name, Author, Pages), alongside a secure deletion module for absolute record control.
 * **Technical Insight:** Migrated the project build orchestration to **CMake** to ensure clean dependency tracking and modern cross-platform compilation logic, while utilising specialised data models to decouple UI presentation from underlying records.
 
-📁 [View Repository](https://github.com/msizimkhize/Journal-Archive-Manager)
+📁 [View Repository](https://github.com/msizimkhize/Journal-Archives-and-Records-Manager)
 
 ---
 
